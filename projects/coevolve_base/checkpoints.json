@@ -1,0 +1,1507 @@
+[
+  {
+    "filename": "nn_model_v1_0_0.pt",
+    "model_type": "MultiClassNN",
+    "version": "1.0.0",
+    "score": 0.9300000071525574,
+    "timestamp": "2025-11-05T14:41:53.533923"
+  },
+  {
+    "filename": "nn_model_v1_0_0.pt",
+    "model_type": "MultiClassNN",
+    "version": "1.0.0",
+    "score": 0.8149999976158142,
+    "timestamp": "2025-11-05T14:43:10.874740"
+  },
+  {
+    "filename": "nn_model_gen1.pt",
+    "model_type": "MultiClassNN",
+    "version": "1.0.0",
+    "score": 0.8149999976158142,
+    "timestamp": "2025-11-05T14:43:10.890408"
+  },
+  {
+    "filename": "nn_model_v2025_11_05_144310.pt",
+    "model_type": "MultiClassNN",
+    "version": "2025.11.05.144310",
+    "score": 0.8176666498184204,
+    "timestamp": "2025-11-05T14:43:10.977688"
+  },
+  {
+    "filename": "nn_model_v1_0_0.pt",
+    "model_type": "MultiClassNN",
+    "version": "1.0.0",
+    "score": 0.7450000047683716,
+    "timestamp": "2025-11-05T14:43:11.258585"
+  },
+  {
+    "filename": "nn_model_gen2.pt",
+    "model_type": "MultiClassNN",
+    "version": "1.0.0",
+    "score": 0.7450000047683716,
+    "timestamp": "2025-11-05T14:43:11.280183"
+  },
+  {
+    "filename": "nn_model_v2025_11_05_144311.pt",
+    "model_type": "MultiClassNN",
+    "version": "2025.11.05.144311",
+    "score": 0.8166666626930237,
+    "timestamp": "2025-11-05T14:43:11.339478"
+  },
+  {
+    "filename": "nn_model_v1_0_0.pt",
+    "model_type": "MultiClassNN",
+    "version": "1.0.0",
+    "score": 0.8299999833106995,
+    "timestamp": "2025-11-05T14:43:11.558570"
+  },
+  {
+    "filename": "nn_model_gen3.pt",
+    "model_type": "MultiClassNN",
+    "version": "1.0.0",
+    "score": 0.8299999833106995,
+    "timestamp": "2025-11-05T14:43:11.575355"
+  },
+  {
+    "filename": "nn_model_v2025_11_05_144311.pt",
+    "model_type": "MultiClassNN",
+    "version": "2025.11.05.144311",
+    "score": 0.906000018119812,
+    "timestamp": "2025-11-05T14:43:11.667007"
+  },
+  {
+    "filename": "nn_model_v1_0_0.pt",
+    "model_type": "MultiClassNN",
+    "version": "1.0.0",
+    "score": 0.8550000190734863,
+    "timestamp": "2025-11-05T14:43:11.884255"
+  },
+  {
+    "filename": "nn_model_gen4.pt",
+    "model_type": "MultiClassNN",
+    "version": "1.0.0",
+    "score": 0.8550000190734863,
+    "timestamp": "2025-11-05T14:43:11.901394"
+  },
+  {
+    "filename": "nn_model_v2025_11_05_144311.pt",
+    "model_type": "MultiClassNN",
+    "version": "2025.11.05.144311",
+    "score": 0.9193333387374878,
+    "timestamp": "2025-11-05T14:43:11.953519"
+  },
+  {
+    "filename": "nn_model_v1_0_0.pt",
+    "model_type": "MultiClassNN",
+    "version": "1.0.0",
+    "score": 0.8299999833106995,
+    "timestamp": "2025-11-05T14:43:12.176406"
+  },
+  {
+    "filename": "nn_model_gen5.pt",
+    "model_type": "MultiClassNN",
+    "version": "1.0.0",
+    "score": 0.8299999833106995,
+    "timestamp": "2025-11-05T14:43:12.193095"
+  },
+  {
+    "filename": "nn_model_v2025_11_05_144312.pt",
+    "model_type": "MultiClassNN",
+    "version": "2025.11.05.144312",
+    "score": 0.9123333096504211,
+    "timestamp": "2025-11-05T14:43:12.257826"
+  },
+  {
+    "filename": "nn_model_v1_0_0.pt",
+    "model_type": "MultiClassNN",
+    "version": "1.0.0",
+    "score": 0.8149999976158142,
+    "timestamp": "2025-11-05T15:59:59.027546"
+  },
+  {
+    "filename": "nn_model_gen1.pt",
+    "model_type": "MultiClassNN",
+    "version": "1.0.0",
+    "score": 0.8149999976158142,
+    "timestamp": "2025-11-05T15:59:59.041040"
+  },
+  {
+    "filename": "nn_model_v2025_11_05_155959.pt",
+    "model_type": "MultiClassNN",
+    "version": "2025.11.05.155959",
+    "score": 0.8923333287239075,
+    "timestamp": "2025-11-05T15:59:59.126041"
+  },
+  {
+    "filename": "nn_model_v1_0_0.pt",
+    "model_type": "MultiClassNN",
+    "version": "1.0.0",
+    "score": 0.925000011920929,
+    "timestamp": "2025-11-05T15:59:59.418971"
+  },
+  {
+    "filename": "nn_model_gen2.pt",
+    "model_type": "MultiClassNN",
+    "version": "1.0.0",
+    "score": 0.925000011920929,
+    "timestamp": "2025-11-05T15:59:59.437374"
+  },
+  {
+    "filename": "nn_model_v2025_11_05_155959.pt",
+    "model_type": "MultiClassNN",
+    "version": "2025.11.05.155959",
+    "score": 0.9396666884422302,
+    "timestamp": "2025-11-05T15:59:59.522975"
+  },
+  {
+    "filename": "nn_model_v1_0_0.pt",
+    "model_type": "MultiClassNN",
+    "version": "1.0.0",
+    "score": 0.8600000143051147,
+    "timestamp": "2025-11-05T15:59:59.742618"
+  },
+  {
+    "filename": "nn_model_gen3.pt",
+    "model_type": "MultiClassNN",
+    "version": "1.0.0",
+    "score": 0.8600000143051147,
+    "timestamp": "2025-11-05T15:59:59.759519"
+  },
+  {
+    "filename": "nn_model_v2025_11_05_155959.pt",
+    "model_type": "MultiClassNN",
+    "version": "2025.11.05.155959",
+    "score": 0.9039999842643738,
+    "timestamp": "2025-11-05T15:59:59.852864"
+  },
+  {
+    "filename": "nn_model_v1_0_0.pt",
+    "model_type": "MultiClassNN",
+    "version": "1.0.0",
+    "score": 0.7649999856948853,
+    "timestamp": "2025-11-05T16:00:00.070900"
+  },
+  {
+    "filename": "nn_model_gen4.pt",
+    "model_type": "MultiClassNN",
+    "version": "1.0.0",
+    "score": 0.7649999856948853,
+    "timestamp": "2025-11-05T16:00:00.087447"
+  },
+  {
+    "filename": "nn_model_v2025_11_05_160000.pt",
+    "model_type": "MultiClassNN",
+    "version": "2025.11.05.160000",
+    "score": 0.8713333606719971,
+    "timestamp": "2025-11-05T16:00:00.168626"
+  },
+  {
+    "filename": "nn_model_v1_0_0.pt",
+    "model_type": "MultiClassNN",
+    "version": "1.0.0",
+    "score": 0.8550000190734863,
+    "timestamp": "2025-11-05T16:00:00.392343"
+  },
+  {
+    "filename": "nn_model_gen5.pt",
+    "model_type": "MultiClassNN",
+    "version": "1.0.0",
+    "score": 0.8550000190734863,
+    "timestamp": "2025-11-05T16:00:00.409690"
+  },
+  {
+    "filename": "nn_model_v2025_11_05_160000.pt",
+    "model_type": "MultiClassNN",
+    "version": "2025.11.05.160000",
+    "score": 0.9123333096504211,
+    "timestamp": "2025-11-05T16:00:00.487066"
+  },
+  {
+    "filename": "nn_model_v1_0_0.pt",
+    "model_type": "MultiClassNN",
+    "version": "1.0.0",
+    "score": 0.824999988079071,
+    "timestamp": "2025-11-05T16:22:24.516102"
+  },
+  {
+    "filename": "nn_model_gen1.pt",
+    "model_type": "MultiClassNN",
+    "version": "1.0.0",
+    "score": 0.824999988079071,
+    "timestamp": "2025-11-05T16:22:24.530177"
+  },
+  {
+    "filename": "nn_model_v2025_11_05_162224.pt",
+    "model_type": "MultiClassNN",
+    "version": "2025.11.05.162224",
+    "score": 0.9053333401679993,
+    "timestamp": "2025-11-05T16:22:24.592917"
+  },
+  {
+    "filename": "nn_model_v1_0_0.pt",
+    "model_type": "MultiClassNN",
+    "version": "1.0.0",
+    "score": 0.8650000095367432,
+    "timestamp": "2025-11-05T16:22:24.900436"
+  },
+  {
+    "filename": "nn_model_gen2.pt",
+    "model_type": "MultiClassNN",
+    "version": "1.0.0",
+    "score": 0.8650000095367432,
+    "timestamp": "2025-11-05T16:22:24.918946"
+  },
+  {
+    "filename": "nn_model_v2025_11_05_162224.pt",
+    "model_type": "MultiClassNN",
+    "version": "2025.11.05.162224",
+    "score": 0.9089999794960022,
+    "timestamp": "2025-11-05T16:22:24.973319"
+  },
+  {
+    "filename": "nn_model_v1_0_0.pt",
+    "model_type": "MultiClassNN",
+    "version": "1.0.0",
+    "score": 0.9300000071525574,
+    "timestamp": "2025-11-05T16:22:25.212026"
+  },
+  {
+    "filename": "nn_model_gen3.pt",
+    "model_type": "MultiClassNN",
+    "version": "1.0.0",
+    "score": 0.9300000071525574,
+    "timestamp": "2025-11-05T16:22:25.241220"
+  },
+  {
+    "filename": "nn_model_v2025_11_05_162225.pt",
+    "model_type": "MultiClassNN",
+    "version": "2025.11.05.162225",
+    "score": 0.9353333115577698,
+    "timestamp": "2025-11-05T16:22:25.305548"
+  },
+  {
+    "filename": "nn_model_v1_0_0.pt",
+    "model_type": "MultiClassNN",
+    "version": "1.0.0",
+    "score": 0.875,
+    "timestamp": "2025-11-05T16:22:25.549151"
+  },
+  {
+    "filename": "nn_model_gen4.pt",
+    "model_type": "MultiClassNN",
+    "version": "1.0.0",
+    "score": 0.875,
+    "timestamp": "2025-11-05T16:22:25.566946"
+  },
+  {
+    "filename": "nn_model_v2025_11_05_162225.pt",
+    "model_type": "MultiClassNN",
+    "version": "2025.11.05.162225",
+    "score": 0.9253333210945129,
+    "timestamp": "2025-11-05T16:22:25.628685"
+  },
+  {
+    "filename": "nn_model_v1_0_0.pt",
+    "model_type": "MultiClassNN",
+    "version": "1.0.0",
+    "score": 0.8199999928474426,
+    "timestamp": "2025-11-05T16:22:25.873670"
+  },
+  {
+    "filename": "nn_model_gen5.pt",
+    "model_type": "MultiClassNN",
+    "version": "1.0.0",
+    "score": 0.8199999928474426,
+    "timestamp": "2025-11-05T16:22:25.891100"
+  },
+  {
+    "filename": "nn_model_v2025_11_05_162225.pt",
+    "model_type": "MultiClassNN",
+    "version": "2025.11.05.162225",
+    "score": 0.8889999985694885,
+    "timestamp": "2025-11-05T16:22:25.957723"
+  },
+  {
+    "filename": "nn_model_v1_0_0.pt",
+    "model_type": "MultiClassNN",
+    "version": "1.0.0",
+    "score": 0.8899999856948853,
+    "timestamp": "2025-11-05T16:28:26.058639"
+  },
+  {
+    "filename": "nn_model_gen1.pt",
+    "model_type": "MultiClassNN",
+    "version": "1.0.0",
+    "score": 0.8899999856948853,
+    "timestamp": "2025-11-05T16:28:26.073376"
+  },
+  {
+    "filename": "nn_model_v2025_11_05_162826.pt",
+    "model_type": "MultiClassNN",
+    "version": "2025.11.05.162826",
+    "score": 0.9160000085830688,
+    "timestamp": "2025-11-05T16:28:26.141855"
+  },
+  {
+    "filename": "nn_model_v1_0_0.pt",
+    "model_type": "MultiClassNN",
+    "version": "1.0.0",
+    "score": 0.8849999904632568,
+    "timestamp": "2025-11-05T16:28:26.443018"
+  },
+  {
+    "filename": "nn_model_gen2.pt",
+    "model_type": "MultiClassNN",
+    "version": "1.0.0",
+    "score": 0.8849999904632568,
+    "timestamp": "2025-11-05T16:28:26.461302"
+  },
+  {
+    "filename": "nn_model_v2025_11_05_162826.pt",
+    "model_type": "MultiClassNN",
+    "version": "2025.11.05.162826",
+    "score": 0.92166668176651,
+    "timestamp": "2025-11-05T16:28:26.525563"
+  },
+  {
+    "filename": "nn_model_v1_0_0.pt",
+    "model_type": "MultiClassNN",
+    "version": "1.0.0",
+    "score": 0.8100000023841858,
+    "timestamp": "2025-11-05T16:28:26.785659"
+  },
+  {
+    "filename": "nn_model_gen3.pt",
+    "model_type": "MultiClassNN",
+    "version": "1.0.0",
+    "score": 0.8100000023841858,
+    "timestamp": "2025-11-05T16:28:26.803838"
+  },
+  {
+    "filename": "nn_model_v2025_11_05_162826.pt",
+    "model_type": "MultiClassNN",
+    "version": "2025.11.05.162826",
+    "score": 0.890999972820282,
+    "timestamp": "2025-11-05T16:28:26.899094"
+  },
+  {
+    "filename": "nn_model_v1_0_0.pt",
+    "model_type": "MultiClassNN",
+    "version": "1.0.0",
+    "score": 0.7950000166893005,
+    "timestamp": "2025-11-05T16:28:27.135551"
+  },
+  {
+    "filename": "nn_model_gen4.pt",
+    "model_type": "MultiClassNN",
+    "version": "1.0.0",
+    "score": 0.7950000166893005,
+    "timestamp": "2025-11-05T16:28:27.156030"
+  },
+  {
+    "filename": "nn_model_v2025_11_05_162827.pt",
+    "model_type": "MultiClassNN",
+    "version": "2025.11.05.162827",
+    "score": 0.8696666955947876,
+    "timestamp": "2025-11-05T16:28:27.247647"
+  },
+  {
+    "filename": "nn_model_v1_0_0.pt",
+    "model_type": "MultiClassNN",
+    "version": "1.0.0",
+    "score": 0.875,
+    "timestamp": "2025-11-05T16:28:27.490172"
+  },
+  {
+    "filename": "nn_model_gen5.pt",
+    "model_type": "MultiClassNN",
+    "version": "1.0.0",
+    "score": 0.875,
+    "timestamp": "2025-11-05T16:28:27.512542"
+  },
+  {
+    "filename": "nn_model_v2025_11_05_162827.pt",
+    "model_type": "MultiClassNN",
+    "version": "2025.11.05.162827",
+    "score": 0.9286666512489319,
+    "timestamp": "2025-11-05T16:28:27.566277"
+  },
+  {
+    "filename": "nn_model_v1_0_0.pt",
+    "model_type": "MultiClassNN",
+    "version": "1.0.0",
+    "score": 0.9150000214576721,
+    "timestamp": "2025-11-06T15:21:11.556718"
+  },
+  {
+    "filename": "nn_model_gen1.pt",
+    "model_type": "MultiClassNN",
+    "version": "1.0.0",
+    "score": 0.9150000214576721,
+    "timestamp": "2025-11-06T15:21:11.570028"
+  },
+  {
+    "filename": "nn_model_v2025_11_06_152111.pt",
+    "model_type": "MultiClassNN",
+    "version": "2025.11.06.152111",
+    "score": 0.9433333277702332,
+    "timestamp": "2025-11-06T15:21:11.652029"
+  },
+  {
+    "filename": "nn_model_v1_0_0.pt",
+    "model_type": "MultiClassNN",
+    "version": "1.0.0",
+    "score": 0.7964285612106323,
+    "timestamp": "2025-11-06T15:21:11.990982"
+  },
+  {
+    "filename": "nn_model_gen2.pt",
+    "model_type": "MultiClassNN",
+    "version": "1.0.0",
+    "score": 0.7964285612106323,
+    "timestamp": "2025-11-06T15:21:12.012780"
+  },
+  {
+    "filename": "nn_model_v2025_11_06_152112.pt",
+    "model_type": "MultiClassNN",
+    "version": "2025.11.06.152112",
+    "score": 0.8973333239555359,
+    "timestamp": "2025-11-06T15:21:12.092556"
+  },
+  {
+    "filename": "nn_model_v1_0_0.pt",
+    "model_type": "MultiClassNN",
+    "version": "1.0.0",
+    "score": 0.8027777671813965,
+    "timestamp": "2025-11-06T15:21:12.335876"
+  },
+  {
+    "filename": "nn_model_gen3.pt",
+    "model_type": "MultiClassNN",
+    "version": "1.0.0",
+    "score": 0.8027777671813965,
+    "timestamp": "2025-11-06T15:21:12.353822"
+  },
+  {
+    "filename": "nn_model_v2025_11_06_152112.pt",
+    "model_type": "MultiClassNN",
+    "version": "2025.11.06.152112",
+    "score": 0.8863333463668823,
+    "timestamp": "2025-11-06T15:21:12.433816"
+  },
+  {
+    "filename": "nn_model_v1_0_0.pt",
+    "model_type": "MultiClassNN",
+    "version": "1.0.0",
+    "score": 0.8431817889213562,
+    "timestamp": "2025-11-06T15:21:12.692349"
+  },
+  {
+    "filename": "nn_model_gen4.pt",
+    "model_type": "MultiClassNN",
+    "version": "1.0.0",
+    "score": 0.8431817889213562,
+    "timestamp": "2025-11-06T15:21:12.711867"
+  },
+  {
+    "filename": "nn_model_v2025_11_06_152112.pt",
+    "model_type": "MultiClassNN",
+    "version": "2025.11.06.152112",
+    "score": 0.8830000162124634,
+    "timestamp": "2025-11-06T15:21:12.771873"
+  },
+  {
+    "filename": "nn_model_v1_0_0.pt",
+    "model_type": "MultiClassNN",
+    "version": "1.0.0",
+    "score": 0.8384615182876587,
+    "timestamp": "2025-11-06T15:21:13.080990"
+  },
+  {
+    "filename": "nn_model_gen5.pt",
+    "model_type": "MultiClassNN",
+    "version": "1.0.0",
+    "score": 0.8384615182876587,
+    "timestamp": "2025-11-06T15:21:13.098461"
+  },
+  {
+    "filename": "nn_model_v2025_11_06_152113.pt",
+    "model_type": "MultiClassNN",
+    "version": "2025.11.06.152113",
+    "score": 0.8676666617393494,
+    "timestamp": "2025-11-06T15:21:13.149630"
+  },
+  {
+    "filename": "nn_model_v1_0_0.pt",
+    "model_type": "MultiClassNN",
+    "version": "1.0.0",
+    "score": 0.8500000238418579,
+    "timestamp": "2025-11-06T15:23:59.408717"
+  },
+  {
+    "filename": "nn_model_gen1.pt",
+    "model_type": "MultiClassNN",
+    "version": "1.0.0",
+    "score": 0.8500000238418579,
+    "timestamp": "2025-11-06T15:23:59.421789"
+  },
+  {
+    "filename": "nn_model_v2025_11_06_152359.pt",
+    "model_type": "MultiClassNN",
+    "version": "2025.11.06.152359",
+    "score": 0.9126666784286499,
+    "timestamp": "2025-11-06T15:23:59.485422"
+  },
+  {
+    "filename": "nn_model_v1_0_0.pt",
+    "model_type": "MultiClassNN",
+    "version": "1.0.0",
+    "score": 0.8214285969734192,
+    "timestamp": "2025-11-06T15:23:59.780461"
+  },
+  {
+    "filename": "nn_model_gen2.pt",
+    "model_type": "MultiClassNN",
+    "version": "1.0.0",
+    "score": 0.8214285969734192,
+    "timestamp": "2025-11-06T15:23:59.797547"
+  },
+  {
+    "filename": "nn_model_v2025_11_06_152359.pt",
+    "model_type": "MultiClassNN",
+    "version": "2025.11.06.152359",
+    "score": 0.8886666893959045,
+    "timestamp": "2025-11-06T15:23:59.864346"
+  },
+  {
+    "filename": "nn_model_v1_0_0.pt",
+    "model_type": "MultiClassNN",
+    "version": "1.0.0",
+    "score": 0.8055555820465088,
+    "timestamp": "2025-11-06T15:24:00.112199"
+  },
+  {
+    "filename": "nn_model_gen3.pt",
+    "model_type": "MultiClassNN",
+    "version": "1.0.0",
+    "score": 0.8055555820465088,
+    "timestamp": "2025-11-06T15:24:00.130884"
+  },
+  {
+    "filename": "nn_model_v2025_11_06_152400.pt",
+    "model_type": "MultiClassNN",
+    "version": "2025.11.06.152400",
+    "score": 0.8723333477973938,
+    "timestamp": "2025-11-06T15:24:00.223969"
+  },
+  {
+    "filename": "nn_model_v1_0_0.pt",
+    "model_type": "MultiClassNN",
+    "version": "1.0.0",
+    "score": 0.7590909004211426,
+    "timestamp": "2025-11-06T15:24:00.488391"
+  },
+  {
+    "filename": "nn_model_gen4.pt",
+    "model_type": "MultiClassNN",
+    "version": "1.0.0",
+    "score": 0.7590909004211426,
+    "timestamp": "2025-11-06T15:24:00.506874"
+  },
+  {
+    "filename": "nn_model_v2025_11_06_152400.pt",
+    "model_type": "MultiClassNN",
+    "version": "2025.11.06.152400",
+    "score": 0.8799999952316284,
+    "timestamp": "2025-11-06T15:24:00.561165"
+  },
+  {
+    "filename": "nn_model_v1_0_0.pt",
+    "model_type": "MultiClassNN",
+    "version": "1.0.0",
+    "score": 0.7903845906257629,
+    "timestamp": "2025-11-06T15:24:00.856582"
+  },
+  {
+    "filename": "nn_model_gen5.pt",
+    "model_type": "MultiClassNN",
+    "version": "1.0.0",
+    "score": 0.7903845906257629,
+    "timestamp": "2025-11-06T15:24:00.877973"
+  },
+  {
+    "filename": "nn_model_v2025_11_06_152400.pt",
+    "model_type": "MultiClassNN",
+    "version": "2025.11.06.152400",
+    "score": 0.890333354473114,
+    "timestamp": "2025-11-06T15:24:00.949588"
+  },
+  {
+    "filename": "nn_model_v1_0_0.pt",
+    "model_type": "MultiClassNN",
+    "version": "1.0.0",
+    "score": 0.8700000047683716,
+    "timestamp": "2025-11-06T15:36:15.604234"
+  },
+  {
+    "filename": "nn_model_gen1.pt",
+    "model_type": "MultiClassNN",
+    "version": "1.0.0",
+    "score": 0.8700000047683716,
+    "timestamp": "2025-11-06T15:36:15.624720"
+  },
+  {
+    "filename": "nn_model_v2025_11_06_153615.pt",
+    "model_type": "MultiClassNN",
+    "version": "2025.11.06.153615",
+    "score": 0.9183333516120911,
+    "timestamp": "2025-11-06T15:36:15.679640"
+  },
+  {
+    "filename": "nn_model_v1_0_0.pt",
+    "model_type": "MultiClassNN",
+    "version": "1.0.0",
+    "score": 0.8392857313156128,
+    "timestamp": "2025-11-06T15:36:16.002993"
+  },
+  {
+    "filename": "nn_model_gen2.pt",
+    "model_type": "MultiClassNN",
+    "version": "1.0.0",
+    "score": 0.8392857313156128,
+    "timestamp": "2025-11-06T15:36:16.021539"
+  },
+  {
+    "filename": "nn_model_v2025_11_06_153616.pt",
+    "model_type": "MultiClassNN",
+    "version": "2025.11.06.153616",
+    "score": 0.8939999938011169,
+    "timestamp": "2025-11-06T15:36:16.070943"
+  },
+  {
+    "filename": "nn_model_v1_0_0.pt",
+    "model_type": "MultiClassNN",
+    "version": "1.0.0",
+    "score": 0.8388888835906982,
+    "timestamp": "2025-11-06T15:36:16.318073"
+  },
+  {
+    "filename": "nn_model_gen3.pt",
+    "model_type": "MultiClassNN",
+    "version": "1.0.0",
+    "score": 0.8388888835906982,
+    "timestamp": "2025-11-06T15:36:16.336492"
+  },
+  {
+    "filename": "nn_model_v2025_11_06_153616.pt",
+    "model_type": "MultiClassNN",
+    "version": "2025.11.06.153616",
+    "score": 0.8846666812896729,
+    "timestamp": "2025-11-06T15:36:16.400652"
+  },
+  {
+    "filename": "nn_model_v1_0_0.pt",
+    "model_type": "MultiClassNN",
+    "version": "1.0.0",
+    "score": 0.8227272629737854,
+    "timestamp": "2025-11-06T15:36:16.649325"
+  },
+  {
+    "filename": "nn_model_gen4.pt",
+    "model_type": "MultiClassNN",
+    "version": "1.0.0",
+    "score": 0.8227272629737854,
+    "timestamp": "2025-11-06T15:36:16.667340"
+  },
+  {
+    "filename": "nn_model_v2025_11_06_153616.pt",
+    "model_type": "MultiClassNN",
+    "version": "2025.11.06.153616",
+    "score": 0.8663333058357239,
+    "timestamp": "2025-11-06T15:36:16.728222"
+  },
+  {
+    "filename": "nn_model_v1_0_0.pt",
+    "model_type": "MultiClassNN",
+    "version": "1.0.0",
+    "score": 0.8115384578704834,
+    "timestamp": "2025-11-06T15:36:17.036974"
+  },
+  {
+    "filename": "nn_model_gen5.pt",
+    "model_type": "MultiClassNN",
+    "version": "1.0.0",
+    "score": 0.8115384578704834,
+    "timestamp": "2025-11-06T15:36:17.056221"
+  },
+  {
+    "filename": "nn_model_v2025_11_06_153617.pt",
+    "model_type": "MultiClassNN",
+    "version": "2025.11.06.153617",
+    "score": 0.8686666488647461,
+    "timestamp": "2025-11-06T15:36:17.102395"
+  },
+  {
+    "filename": "nn_model_v1_0_0.pt",
+    "model_type": "MultiClassNN",
+    "version": "1.0.0",
+    "score": 0.875,
+    "timestamp": "2025-11-06T16:57:22.606787"
+  },
+  {
+    "filename": "nn_model_gen1.pt",
+    "model_type": "MultiClassNN",
+    "version": "1.0.0",
+    "score": 0.875,
+    "timestamp": "2025-11-06T16:57:22.627994"
+  },
+  {
+    "filename": "nn_model_v2025_11_06_165722.pt",
+    "model_type": "MultiClassNN",
+    "version": "2025.11.06.165722",
+    "score": 0.9026666879653931,
+    "timestamp": "2025-11-06T16:57:22.688048"
+  },
+  {
+    "filename": "nn_model_v1_0_0.pt",
+    "model_type": "MultiClassNN",
+    "version": "1.0.0",
+    "score": 0.8571428656578064,
+    "timestamp": "2025-11-06T16:57:23.505482"
+  },
+  {
+    "filename": "nn_model_gen2.pt",
+    "model_type": "MultiClassNN",
+    "version": "1.0.0",
+    "score": 0.8571428656578064,
+    "timestamp": "2025-11-06T16:57:23.535063"
+  },
+  {
+    "filename": "nn_model_v2025_11_06_165723.pt",
+    "model_type": "MultiClassNN",
+    "version": "2025.11.06.165723",
+    "score": 0.8946666717529297,
+    "timestamp": "2025-11-06T16:57:23.592404"
+  },
+  {
+    "filename": "nn_model_v1_0_0.pt",
+    "model_type": "MultiClassNN",
+    "version": "1.0.0",
+    "score": 0.8583333492279053,
+    "timestamp": "2025-11-06T16:57:23.852710"
+  },
+  {
+    "filename": "nn_model_gen3.pt",
+    "model_type": "MultiClassNN",
+    "version": "1.0.0",
+    "score": 0.8583333492279053,
+    "timestamp": "2025-11-06T16:57:23.892193"
+  },
+  {
+    "filename": "nn_model_v2025_11_06_165723.pt",
+    "model_type": "MultiClassNN",
+    "version": "2025.11.06.165723",
+    "score": 0.8920000195503235,
+    "timestamp": "2025-11-06T16:57:23.950757"
+  },
+  {
+    "filename": "nn_model_v1_0_0.pt",
+    "model_type": "MultiClassNN",
+    "version": "1.0.0",
+    "score": 0.8340908885002136,
+    "timestamp": "2025-11-06T16:57:24.220934"
+  },
+  {
+    "filename": "nn_model_gen4.pt",
+    "model_type": "MultiClassNN",
+    "version": "1.0.0",
+    "score": 0.8340908885002136,
+    "timestamp": "2025-11-06T16:57:24.251070"
+  },
+  {
+    "filename": "nn_model_v2025_11_06_165724.pt",
+    "model_type": "MultiClassNN",
+    "version": "2025.11.06.165724",
+    "score": 0.8880000114440918,
+    "timestamp": "2025-11-06T16:57:24.302242"
+  },
+  {
+    "filename": "nn_model_v1_0_0.pt",
+    "model_type": "MultiClassNN",
+    "version": "1.0.0",
+    "score": 0.7692307829856873,
+    "timestamp": "2025-11-06T16:57:24.597432"
+  },
+  {
+    "filename": "nn_model_gen5.pt",
+    "model_type": "MultiClassNN",
+    "version": "1.0.0",
+    "score": 0.7692307829856873,
+    "timestamp": "2025-11-06T16:57:24.628699"
+  },
+  {
+    "filename": "nn_model_v2025_11_06_165724.pt",
+    "model_type": "MultiClassNN",
+    "version": "2025.11.06.165724",
+    "score": 0.859333336353302,
+    "timestamp": "2025-11-06T16:57:24.685847"
+  },
+  {
+    "filename": "nn_model_v1_0_0.pt",
+    "model_type": "MultiClassNN",
+    "version": "1.0.0",
+    "score": 0.8349999785423279,
+    "timestamp": "2025-11-06T17:02:43.794377"
+  },
+  {
+    "filename": "nn_model_gen1.pt",
+    "model_type": "MultiClassNN",
+    "version": "1.0.0",
+    "score": 0.8349999785423279,
+    "timestamp": "2025-11-06T17:02:43.827859"
+  },
+  {
+    "filename": "nn_model_v2025_11_06_170243.pt",
+    "model_type": "MultiClassNN",
+    "version": "2025.11.06.170243",
+    "score": 0.9076666831970215,
+    "timestamp": "2025-11-06T17:02:43.888656"
+  },
+  {
+    "filename": "nn_model_v1_0_0.pt",
+    "model_type": "MultiClassNN",
+    "version": "1.0.0",
+    "score": 0.8464285731315613,
+    "timestamp": "2025-11-06T17:02:44.243629"
+  },
+  {
+    "filename": "nn_model_gen2.pt",
+    "model_type": "MultiClassNN",
+    "version": "1.0.0",
+    "score": 0.8464285731315613,
+    "timestamp": "2025-11-06T17:02:44.270453"
+  },
+  {
+    "filename": "nn_model_v2025_11_06_170244.pt",
+    "model_type": "MultiClassNN",
+    "version": "2025.11.06.170244",
+    "score": 0.8693333268165588,
+    "timestamp": "2025-11-06T17:02:44.329513"
+  },
+  {
+    "filename": "nn_model_v1_0_0.pt",
+    "model_type": "MultiClassNN",
+    "version": "1.0.0",
+    "score": 0.8500000238418579,
+    "timestamp": "2025-11-06T17:02:44.589924"
+  },
+  {
+    "filename": "nn_model_gen3.pt",
+    "model_type": "MultiClassNN",
+    "version": "1.0.0",
+    "score": 0.8500000238418579,
+    "timestamp": "2025-11-06T17:02:44.620022"
+  },
+  {
+    "filename": "nn_model_v2025_11_06_170244.pt",
+    "model_type": "MultiClassNN",
+    "version": "2025.11.06.170244",
+    "score": 0.8986666798591614,
+    "timestamp": "2025-11-06T17:02:44.682826"
+  },
+  {
+    "filename": "nn_model_v1_0_0.pt",
+    "model_type": "MultiClassNN",
+    "version": "1.0.0",
+    "score": 0.8522727489471436,
+    "timestamp": "2025-11-06T17:02:44.965672"
+  },
+  {
+    "filename": "nn_model_gen4.pt",
+    "model_type": "MultiClassNN",
+    "version": "1.0.0",
+    "score": 0.8522727489471436,
+    "timestamp": "2025-11-06T17:02:45.001069"
+  },
+  {
+    "filename": "nn_model_v2025_11_06_170245.pt",
+    "model_type": "MultiClassNN",
+    "version": "2025.11.06.170245",
+    "score": 0.8926666378974915,
+    "timestamp": "2025-11-06T17:02:45.060986"
+  },
+  {
+    "filename": "nn_model_v1_0_0.pt",
+    "model_type": "MultiClassNN",
+    "version": "1.0.0",
+    "score": 0.8288461565971375,
+    "timestamp": "2025-11-06T17:02:45.359267"
+  },
+  {
+    "filename": "nn_model_gen5.pt",
+    "model_type": "MultiClassNN",
+    "version": "1.0.0",
+    "score": 0.8288461565971375,
+    "timestamp": "2025-11-06T17:02:45.387109"
+  },
+  {
+    "filename": "nn_model_v2025_11_06_170245.pt",
+    "model_type": "MultiClassNN",
+    "version": "2025.11.06.170245",
+    "score": 0.8736666440963745,
+    "timestamp": "2025-11-06T17:02:45.444803"
+  },
+  {
+    "filename": "nn_model_v1_0_0.pt",
+    "model_type": "MultiClassNN",
+    "version": "1.0.0",
+    "score": 0.8550000190734863,
+    "timestamp": "2025-11-06T17:21:18.531433"
+  },
+  {
+    "filename": "nn_model_gen1.pt",
+    "model_type": "MultiClassNN",
+    "version": "1.0.0",
+    "score": 0.8550000190734863,
+    "timestamp": "2025-11-06T17:21:18.562938"
+  },
+  {
+    "filename": "nn_model_v2025_11_06_172118.pt",
+    "model_type": "MultiClassNN",
+    "version": "2025.11.06.172118",
+    "score": 0.9113333225250244,
+    "timestamp": "2025-11-06T17:21:18.622359"
+  },
+  {
+    "filename": "nn_model_v1_0_0.pt",
+    "model_type": "MultiClassNN",
+    "version": "1.0.0",
+    "score": 0.824999988079071,
+    "timestamp": "2025-11-06T17:21:18.965874"
+  },
+  {
+    "filename": "nn_model_gen2.pt",
+    "model_type": "MultiClassNN",
+    "version": "1.0.0",
+    "score": 0.824999988079071,
+    "timestamp": "2025-11-06T17:21:19.007678"
+  },
+  {
+    "filename": "nn_model_v2025_11_06_172119.pt",
+    "model_type": "MultiClassNN",
+    "version": "2025.11.06.172119",
+    "score": 0.8730000257492065,
+    "timestamp": "2025-11-06T17:21:19.078133"
+  },
+  {
+    "filename": "nn_model_v1_0_0.pt",
+    "model_type": "MultiClassNN",
+    "version": "1.0.0",
+    "score": 0.8333333134651184,
+    "timestamp": "2025-11-06T17:21:19.340246"
+  },
+  {
+    "filename": "nn_model_gen3.pt",
+    "model_type": "MultiClassNN",
+    "version": "1.0.0",
+    "score": 0.8333333134651184,
+    "timestamp": "2025-11-06T17:21:19.374420"
+  },
+  {
+    "filename": "nn_model_v2025_11_06_172119.pt",
+    "model_type": "MultiClassNN",
+    "version": "2025.11.06.172119",
+    "score": 0.8803333044052124,
+    "timestamp": "2025-11-06T17:21:19.431127"
+  },
+  {
+    "filename": "nn_model_v1_0_0.pt",
+    "model_type": "MultiClassNN",
+    "version": "1.0.0",
+    "score": 0.824999988079071,
+    "timestamp": "2025-11-06T17:21:19.715677"
+  },
+  {
+    "filename": "nn_model_gen4.pt",
+    "model_type": "MultiClassNN",
+    "version": "1.0.0",
+    "score": 0.824999988079071,
+    "timestamp": "2025-11-06T17:21:19.764245"
+  },
+  {
+    "filename": "nn_model_v2025_11_06_172119.pt",
+    "model_type": "MultiClassNN",
+    "version": "2025.11.06.172119",
+    "score": 0.8866666555404663,
+    "timestamp": "2025-11-06T17:21:19.834259"
+  },
+  {
+    "filename": "nn_model_v1_0_0.pt",
+    "model_type": "MultiClassNN",
+    "version": "1.0.0",
+    "score": 0.8346154093742371,
+    "timestamp": "2025-11-06T17:21:20.152771"
+  },
+  {
+    "filename": "nn_model_gen5.pt",
+    "model_type": "MultiClassNN",
+    "version": "1.0.0",
+    "score": 0.8346154093742371,
+    "timestamp": "2025-11-06T17:21:20.195061"
+  },
+  {
+    "filename": "nn_model_v2025_11_06_172120.pt",
+    "model_type": "MultiClassNN",
+    "version": "2025.11.06.172120",
+    "score": 0.8579999804496765,
+    "timestamp": "2025-11-06T17:21:20.274760"
+  },
+  {
+    "filename": "nn_model_v1_0_0.pt",
+    "model_type": "MultiClassNN",
+    "version": "1.0.0",
+    "score": 0.8849999904632568,
+    "timestamp": "2025-11-06T17:48:43.282831"
+  },
+  {
+    "filename": "nn_model_gen1.pt",
+    "model_type": "MultiClassNN",
+    "version": "1.0.0",
+    "score": 0.8849999904632568,
+    "timestamp": "2025-11-06T17:48:43.333138"
+  },
+  {
+    "filename": "nn_model_v2025_11_06_174843.pt",
+    "model_type": "MultiClassNN",
+    "version": "2025.11.06.174843",
+    "score": 0.906000018119812,
+    "timestamp": "2025-11-06T17:48:43.399731"
+  },
+  {
+    "filename": "nn_model_v1_0_0.pt",
+    "model_type": "MultiClassNN",
+    "version": "1.0.0",
+    "score": 0.8071428537368774,
+    "timestamp": "2025-11-06T17:48:43.727020"
+  },
+  {
+    "filename": "nn_model_gen2.pt",
+    "model_type": "MultiClassNN",
+    "version": "1.0.0",
+    "score": 0.8071428537368774,
+    "timestamp": "2025-11-06T17:48:43.751223"
+  },
+  {
+    "filename": "nn_model_v2025_11_06_174843.pt",
+    "model_type": "MultiClassNN",
+    "version": "2025.11.06.174843",
+    "score": 0.8913333415985107,
+    "timestamp": "2025-11-06T17:48:43.807977"
+  },
+  {
+    "filename": "nn_model_v1_0_0.pt",
+    "model_type": "MultiClassNN",
+    "version": "1.0.0",
+    "score": 0.8194444179534912,
+    "timestamp": "2025-11-06T17:48:44.068687"
+  },
+  {
+    "filename": "nn_model_gen3.pt",
+    "model_type": "MultiClassNN",
+    "version": "1.0.0",
+    "score": 0.8194444179534912,
+    "timestamp": "2025-11-06T17:48:44.105324"
+  },
+  {
+    "filename": "nn_model_v2025_11_06_174844.pt",
+    "model_type": "MultiClassNN",
+    "version": "2025.11.06.174844",
+    "score": 0.8946666717529297,
+    "timestamp": "2025-11-06T17:48:44.163260"
+  },
+  {
+    "filename": "nn_model_v1_0_0.pt",
+    "model_type": "MultiClassNN",
+    "version": "1.0.0",
+    "score": 0.8431817889213562,
+    "timestamp": "2025-11-06T17:48:44.428674"
+  },
+  {
+    "filename": "nn_model_gen4.pt",
+    "model_type": "MultiClassNN",
+    "version": "1.0.0",
+    "score": 0.8431817889213562,
+    "timestamp": "2025-11-06T17:48:44.467100"
+  },
+  {
+    "filename": "nn_model_v2025_11_06_174844.pt",
+    "model_type": "MultiClassNN",
+    "version": "2025.11.06.174844",
+    "score": 0.8799999952316284,
+    "timestamp": "2025-11-06T17:48:44.530195"
+  },
+  {
+    "filename": "nn_model_v1_0_0.pt",
+    "model_type": "MultiClassNN",
+    "version": "1.0.0",
+    "score": 0.7942307591438293,
+    "timestamp": "2025-11-06T17:48:44.835792"
+  },
+  {
+    "filename": "nn_model_gen5.pt",
+    "model_type": "MultiClassNN",
+    "version": "1.0.0",
+    "score": 0.7942307591438293,
+    "timestamp": "2025-11-06T17:48:44.867826"
+  },
+  {
+    "filename": "nn_model_v2025_11_06_174844.pt",
+    "model_type": "MultiClassNN",
+    "version": "2025.11.06.174844",
+    "score": 0.8683333396911621,
+    "timestamp": "2025-11-06T17:48:44.923236"
+  },
+  {
+    "filename": "nn_model_v1_0_0.pt",
+    "model_type": "MultiClassNN",
+    "version": "1.0.0",
+    "score": 0.8799999952316284,
+    "timestamp": "2025-11-06T17:48:51.842978"
+  },
+  {
+    "filename": "nn_model_gen1.pt",
+    "model_type": "MultiClassNN",
+    "version": "1.0.0",
+    "score": 0.8799999952316284,
+    "timestamp": "2025-11-06T17:48:51.877338"
+  },
+  {
+    "filename": "nn_model_v2025_11_06_174851.pt",
+    "model_type": "MultiClassNN",
+    "version": "2025.11.06.174851",
+    "score": 0.8786666393280029,
+    "timestamp": "2025-11-06T17:48:51.936895"
+  },
+  {
+    "filename": "nn_model_v1_0_0.pt",
+    "model_type": "MultiClassNN",
+    "version": "1.0.0",
+    "score": 0.7785714268684387,
+    "timestamp": "2025-11-06T17:48:52.266722"
+  },
+  {
+    "filename": "nn_model_gen2.pt",
+    "model_type": "MultiClassNN",
+    "version": "1.0.0",
+    "score": 0.7785714268684387,
+    "timestamp": "2025-11-06T17:48:52.302335"
+  },
+  {
+    "filename": "nn_model_v2025_11_06_174852.pt",
+    "model_type": "MultiClassNN",
+    "version": "2025.11.06.174852",
+    "score": 0.8276666402816772,
+    "timestamp": "2025-11-06T17:48:52.368834"
+  },
+  {
+    "filename": "nn_model_v1_0_0.pt",
+    "model_type": "MultiClassNN",
+    "version": "1.0.0",
+    "score": 0.7805555462837219,
+    "timestamp": "2025-11-06T17:48:52.632248"
+  },
+  {
+    "filename": "nn_model_gen3.pt",
+    "model_type": "MultiClassNN",
+    "version": "1.0.0",
+    "score": 0.7805555462837219,
+    "timestamp": "2025-11-06T17:48:52.670971"
+  },
+  {
+    "filename": "nn_model_v2025_11_06_174852.pt",
+    "model_type": "MultiClassNN",
+    "version": "2025.11.06.174852",
+    "score": 0.8259999752044678,
+    "timestamp": "2025-11-06T17:48:52.732436"
+  },
+  {
+    "filename": "nn_model_v1_0_0.pt",
+    "model_type": "MultiClassNN",
+    "version": "1.0.0",
+    "score": 0.7340909242630005,
+    "timestamp": "2025-11-06T17:48:52.986983"
+  },
+  {
+    "filename": "nn_model_gen4.pt",
+    "model_type": "MultiClassNN",
+    "version": "1.0.0",
+    "score": 0.7340909242630005,
+    "timestamp": "2025-11-06T17:48:53.017558"
+  },
+  {
+    "filename": "nn_model_v2025_11_06_174853.pt",
+    "model_type": "MultiClassNN",
+    "version": "2025.11.06.174853",
+    "score": 0.8119999766349792,
+    "timestamp": "2025-11-06T17:48:53.073916"
+  },
+  {
+    "filename": "nn_model_v1_0_0.pt",
+    "model_type": "MultiClassNN",
+    "version": "1.0.0",
+    "score": 0.7961538434028625,
+    "timestamp": "2025-11-06T17:48:53.381739"
+  },
+  {
+    "filename": "nn_model_gen5.pt",
+    "model_type": "MultiClassNN",
+    "version": "1.0.0",
+    "score": 0.7961538434028625,
+    "timestamp": "2025-11-06T17:48:53.408009"
+  },
+  {
+    "filename": "nn_model_v2025_11_06_174853.pt",
+    "model_type": "MultiClassNN",
+    "version": "2025.11.06.174853",
+    "score": 0.8476666808128357,
+    "timestamp": "2025-11-06T17:48:53.464373"
+  },
+  {
+    "filename": "nn_model_v1_0_0.pt",
+    "model_type": "MultiClassNN",
+    "version": "1.0.0",
+    "score": 0.8450000286102295,
+    "timestamp": "2025-11-07T08:42:33.247350"
+  },
+  {
+    "filename": "nn_model_gen1.pt",
+    "model_type": "MultiClassNN",
+    "version": "1.0.0",
+    "score": 0.8450000286102295,
+    "timestamp": "2025-11-07T08:42:33.279639"
+  },
+  {
+    "filename": "nn_model_v2025_11_07_084233.pt",
+    "model_type": "MultiClassNN",
+    "version": "2025.11.07.084233",
+    "score": 0.8700000047683716,
+    "timestamp": "2025-11-07T08:42:33.353382"
+  },
+  {
+    "filename": "nn_model_v1_0_0.pt",
+    "model_type": "MultiClassNN",
+    "version": "1.0.0",
+    "score": 0.8899999856948853,
+    "timestamp": "2025-11-07T11:24:11.215309"
+  },
+  {
+    "filename": "nn_model_gen1.pt",
+    "model_type": "MultiClassNN",
+    "version": "1.0.0",
+    "score": 0.8899999856948853,
+    "timestamp": "2025-11-07T11:24:11.232340"
+  },
+  {
+    "filename": "nn_model_v2025_11_07_112411.pt",
+    "model_type": "MultiClassNN",
+    "version": "2025.11.07.112411",
+    "score": 0.9350000023841858,
+    "timestamp": "2025-11-07T11:24:11.314700"
+  },
+  {
+    "filename": "nn_model_v1_0_0.pt",
+    "model_type": "MultiClassNN",
+    "version": "1.0.0",
+    "score": 0.5,
+    "timestamp": "2025-11-08T10:48:05.876262"
+  },
+  {
+    "filename": "nn_model_v1_0_0.pt",
+    "model_type": "MultiClassNN",
+    "version": "1.0.0",
+    "score": 0.8050000071525574,
+    "timestamp": "2025-11-08T10:48:19.364565"
+  },
+  {
+    "filename": "nn_model_v1_0_0.pt",
+    "model_type": "MultiClassNN",
+    "version": "1.0.0",
+    "score": 0.8450000286102295,
+    "timestamp": "2025-11-08T10:48:31.375698"
+  },
+  {
+    "filename": "nn_model_v1_0_0.pt",
+    "model_type": "BinaryNN",
+    "version": "1.0.0",
+    "score": 0.5031999945640564,
+    "timestamp": "2025-11-09T00:32:49.104771"
+  },
+  {
+    "filename": "nn_model_v1_0_0.pt",
+    "model_type": "BinaryNN",
+    "version": "1.0.0",
+    "score": 0.5790390372276306,
+    "timestamp": "2025-11-09T00:32:49.417005"
+  },
+  {
+    "filename": "nn_model_v1_0_0.pt",
+    "model_type": "BinaryNN",
+    "version": "1.0.0",
+    "score": 0.5005773305892944,
+    "timestamp": "2025-11-09T00:32:49.703943"
+  },
+  {
+    "filename": "nn_model_v1_0_0.pt",
+    "model_type": "BinaryNN",
+    "version": "1.0.0",
+    "score": 0.5174829959869385,
+    "timestamp": "2025-11-09T00:32:49.997827"
+  },
+  {
+    "filename": "nn_model_v1_0_0.pt",
+    "model_type": "BinaryNN",
+    "version": "1.0.0",
+    "score": 0.544164776802063,
+    "timestamp": "2025-11-09T00:32:50.309137"
+  },
+  {
+    "filename": "nn_model_v1_0_0.pt",
+    "model_type": "BinaryNN",
+    "version": "1.0.0",
+    "score": 0.5007873773574829,
+    "timestamp": "2025-11-09T00:41:46.185017"
+  },
+  {
+    "filename": "nn_model_v1_0_0.pt",
+    "model_type": "BinaryNN",
+    "version": "1.0.0",
+    "score": 0.5610393285751343,
+    "timestamp": "2025-11-09T00:41:46.496325"
+  },
+  {
+    "filename": "nn_model_v1_0_0.pt",
+    "model_type": "BinaryNN",
+    "version": "1.0.0",
+    "score": 0.5005773305892944,
+    "timestamp": "2025-11-09T00:41:46.794851"
+  },
+  {
+    "filename": "nn_model_v1_0_0.pt",
+    "model_type": "BinaryNN",
+    "version": "1.0.0",
+    "score": 0.5015432238578796,
+    "timestamp": "2025-11-09T08:04:24.548807"
+  },
+  {
+    "filename": "nn_model_v1_0_0.pt",
+    "model_type": "BinaryNN",
+    "version": "1.0.0",
+    "score": 0.5418058037757874,
+    "timestamp": "2025-11-09T08:04:24.882184"
+  },
+  {
+    "filename": "nn_model_v1_0_0.pt",
+    "model_type": "BinaryNN",
+    "version": "1.0.0",
+    "score": 0.5023093819618225,
+    "timestamp": "2025-11-09T08:04:25.197681"
+  },
+  {
+    "filename": "nn_model_v1_0_0.pt",
+    "model_type": "FlexibleNN",
+    "version": "1.0.0",
+    "score": 0.5000314712524414,
+    "timestamp": "2025-11-09T09:53:35.857760"
+  },
+  {
+    "filename": "nn_model_v1_0_0.pt",
+    "model_type": "FlexibleNN",
+    "version": "1.0.0",
+    "score": 0.5103592872619629,
+    "timestamp": "2025-11-09T09:53:36.161014"
+  },
+  {
+    "filename": "nn_model_v1_0_0.pt",
+    "model_type": "FlexibleNN",
+    "version": "1.0.0",
+    "score": 0.5001628994941711,
+    "timestamp": "2025-11-09T09:53:36.832070"
+  },
+  {
+    "filename": "nn_model_v1_0_0.pt",
+    "model_type": "FlexibleNN",
+    "version": "1.0.0",
+    "score": 0.5023781061172485,
+    "timestamp": "2025-11-09T09:53:37.134960"
+  },
+  {
+    "filename": "nn_model_v1_0_0.pt",
+    "model_type": "FlexibleNN",
+    "version": "1.0.0",
+    "score": 0.6944444179534912,
+    "timestamp": "2025-11-09T09:54:05.091625"
+  },
+  {
+    "filename": "nn_model_v1_0_0.pt",
+    "model_type": "FlexibleNN",
+    "version": "1.0.0",
+    "score": 0.7159090638160706,
+    "timestamp": "2025-11-09T09:54:05.434260"
+  },
+  {
+    "filename": "nn_model_v1_0_0.pt",
+    "model_type": "FlexibleNN",
+    "version": "1.0.0",
+    "score": 0.7039711475372314,
+    "timestamp": "2025-11-09T09:54:05.749613"
+  },
+  {
+    "filename": "nn_model_v1_0_0.pt",
+    "model_type": "FlexibleNN",
+    "version": "1.0.0",
+    "score": 0.8611111044883728,
+    "timestamp": "2025-11-09T09:54:42.874619"
+  },
+  {
+    "filename": "nn_model_v1_0_0.pt",
+    "model_type": "FlexibleNN",
+    "version": "1.0.0",
+    "score": 0.8295454382896423,
+    "timestamp": "2025-11-09T09:54:43.370667"
+  },
+  {
+    "filename": "nn_model_v1_0_0.pt",
+    "model_type": "FlexibleNN",
+    "version": "1.0.0",
+    "score": 0.7761732935905457,
+    "timestamp": "2025-11-09T09:54:43.846488"
+  },
+  {
+    "filename": "nn_model_v1_0_0.pt",
+    "model_type": "FlexibleNN",
+    "version": "1.0.0",
+    "score": 0.4982520639896393,
+    "timestamp": "2025-11-10T00:21:18.725475"
+  },
+  {
+    "filename": "nn_model_v1_0_0.pt",
+    "model_type": "FlexibleNN",
+    "version": "1.0.0",
+    "score": 0.4982782304286957,
+    "timestamp": "2025-11-10T00:21:19.250308"
+  },
+  {
+    "filename": "nn_model_v1_0_0.pt",
+    "model_type": "FlexibleNN",
+    "version": "1.0.0",
+    "score": 0.5595667958259583,
+    "timestamp": "2025-11-10T00:21:19.892904"
+  },
+  {
+    "filename": "nn_model_v1_0_0.pt",
+    "model_type": "FlexibleNN",
+    "version": "1.0.0",
+    "score": 0.5787671208381653,
+    "timestamp": "2025-11-10T00:21:20.279774"
+  }
+]

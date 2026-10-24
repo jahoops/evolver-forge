@@ -1,0 +1,473 @@
+{
+  "runs": [
+    {
+      "timestamp": "2025-11-10T00:21:20",
+      "task": "xor",
+      "seed": 2752077,
+      "results": [
+        {
+          "kind": "arch.explore.lambda_consistency",
+          "metric": "nn_accuracy",
+          "did_mean": 0.07074919259259252,
+          "granger_score": 1.3333857705314012,
+          "betas": [
+            0.6499518260869567,
+            0.6834339444444446
+          ],
+          "count": 1
+        },
+        {
+          "kind": "arch.explore.lambda_consistency",
+          "metric": "rule_fidelity",
+          "did_mean": 0.012117592592592596,
+          "granger_score": 1.7159214975845414,
+          "betas": [
+            0.8482826086956523,
+            0.8676388888888891
+          ],
+          "count": 1
+        },
+        {
+          "kind": "arch.explore.lambda_consistency",
+          "metric": "combined_fitness",
+          "did_mean": 0.041433468518518646,
+          "granger_score": 1.524653625603865,
+          "betas": [
+            0.7491173478260871,
+            0.775536277777778
+          ],
+          "count": 1
+        },
+        {
+          "kind": "arch.explore.mutation_rate",
+          "metric": "nn_accuracy",
+          "did_mean": 0.07074919259259252,
+          "granger_score": 1.3333857705314012,
+          "betas": [
+            0.6499518260869567,
+            0.6834339444444446
+          ],
+          "count": 1
+        },
+        {
+          "kind": "arch.explore.mutation_rate",
+          "metric": "rule_fidelity",
+          "did_mean": 0.012117592592592596,
+          "granger_score": 1.7159214975845414,
+          "betas": [
+            0.8482826086956523,
+            0.8676388888888891
+          ],
+          "count": 1
+        },
+        {
+          "kind": "arch.explore.mutation_rate",
+          "metric": "combined_fitness",
+          "did_mean": 0.041433468518518646,
+          "granger_score": 1.524653625603865,
+          "betas": [
+            0.7491173478260871,
+            0.775536277777778
+          ],
+          "count": 1
+        },
+        {
+          "kind": "arch.explore.uncertainty_k",
+          "metric": "nn_accuracy",
+          "did_mean": 0.07074919259259252,
+          "granger_score": 1.3333857705314012,
+          "betas": [
+            0.6499518260869567,
+            0.6834339444444446
+          ],
+          "count": 1
+        },
+        {
+          "kind": "arch.explore.uncertainty_k",
+          "metric": "rule_fidelity",
+          "did_mean": 0.012117592592592596,
+          "granger_score": 1.7159214975845414,
+          "betas": [
+            0.8482826086956523,
+            0.8676388888888891
+          ],
+          "count": 1
+        },
+        {
+          "kind": "arch.explore.uncertainty_k",
+          "metric": "combined_fitness",
+          "did_mean": 0.041433468518518646,
+          "granger_score": 1.524653625603865,
+          "betas": [
+            0.7491173478260871,
+            0.775536277777778
+          ],
+          "count": 1
+        },
+        {
+          "kind": "arch.nn.activation",
+          "metric": "nn_accuracy",
+          "did_mean": 0.07074919259259252,
+          "granger_score": 1.3333857705314012,
+          "betas": [
+            0.6499518260869567,
+            0.6834339444444446
+          ],
+          "count": 1
+        },
+        {
+          "kind": "arch.nn.activation",
+          "metric": "rule_fidelity",
+          "did_mean": 0.012117592592592596,
+          "granger_score": 1.7159214975845414,
+          "betas": [
+            0.8482826086956523,
+            0.8676388888888891
+          ],
+          "count": 1
+        },
+        {
+          "kind": "arch.nn.activation",
+          "metric": "combined_fitness",
+          "did_mean": 0.041433468518518646,
+          "granger_score": 1.524653625603865,
+          "betas": [
+            0.7491173478260871,
+            0.775536277777778
+          ],
+          "count": 1
+        },
+        {
+          "kind": "arch.nn.dropout",
+          "metric": "nn_accuracy",
+          "did_mean": 0.07074919259259252,
+          "granger_score": 1.3333857705314012,
+          "betas": [
+            0.6499518260869567,
+            0.6834339444444446
+          ],
+          "count": 1
+        },
+        {
+          "kind": "arch.nn.dropout",
+          "metric": "rule_fidelity",
+          "did_mean": 0.012117592592592596,
+          "granger_score": 1.7159214975845414,
+          "betas": [
+            0.8482826086956523,
+            0.8676388888888891
+          ],
+          "count": 1
+        },
+        {
+          "kind": "arch.nn.dropout",
+          "metric": "combined_fitness",
+          "did_mean": 0.041433468518518646,
+          "granger_score": 1.524653625603865,
+          "betas": [
+            0.7491173478260871,
+            0.775536277777778
+          ],
+          "count": 1
+        },
+        {
+          "kind": "arch.nn.hidden_layers",
+          "metric": "nn_accuracy",
+          "did_mean": 0.07074919259259252,
+          "granger_score": 1.3333857705314012,
+          "betas": [
+            0.6499518260869567,
+            0.6834339444444446
+          ],
+          "count": 1
+        },
+        {
+          "kind": "arch.nn.hidden_layers",
+          "metric": "rule_fidelity",
+          "did_mean": 0.012117592592592596,
+          "granger_score": 1.7159214975845414,
+          "betas": [
+            0.8482826086956523,
+            0.8676388888888891
+          ],
+          "count": 1
+        },
+        {
+          "kind": "arch.nn.hidden_layers",
+          "metric": "combined_fitness",
+          "did_mean": 0.041433468518518646,
+          "granger_score": 1.524653625603865,
+          "betas": [
+            0.7491173478260871,
+            0.775536277777778
+          ],
+          "count": 1
+        },
+        {
+          "kind": "arch.nn.normalization",
+          "metric": "nn_accuracy",
+          "did_mean": 0.07074919259259252,
+          "granger_score": 1.3333857705314012,
+          "betas": [
+            0.6499518260869567,
+            0.6834339444444446
+          ],
+          "count": 1
+        },
+        {
+          "kind": "arch.nn.normalization",
+          "metric": "rule_fidelity",
+          "did_mean": 0.012117592592592596,
+          "granger_score": 1.7159214975845414,
+          "betas": [
+            0.8482826086956523,
+            0.8676388888888891
+          ],
+          "count": 1
+        },
+        {
+          "kind": "arch.nn.normalization",
+          "metric": "combined_fitness",
+          "did_mean": 0.041433468518518646,
+          "granger_score": 1.524653625603865,
+          "betas": [
+            0.7491173478260871,
+            0.775536277777778
+          ],
+          "count": 1
+        },
+        {
+          "kind": "arch.rules.prune_ccp_alpha",
+          "metric": "nn_accuracy",
+          "did_mean": 0.07074919259259252,
+          "granger_score": 1.3333857705314012,
+          "betas": [
+            0.6499518260869567,
+            0.6834339444444446
+          ],
+          "count": 1
+        },
+        {
+          "kind": "arch.rules.prune_ccp_alpha",
+          "metric": "rule_fidelity",
+          "did_mean": 0.012117592592592596,
+          "granger_score": 1.7159214975845414,
+          "betas": [
+            0.8482826086956523,
+            0.8676388888888891
+          ],
+          "count": 1
+        },
+        {
+          "kind": "arch.rules.prune_ccp_alpha",
+          "metric": "combined_fitness",
+          "did_mean": 0.041433468518518646,
+          "granger_score": 1.524653625603865,
+          "betas": [
+            0.7491173478260871,
+            0.775536277777778
+          ],
+          "count": 1
+        },
+        {
+          "kind": "meta.lambda_consistency",
+          "metric": "nn_accuracy",
+          "did_mean": 0.05836465453703703,
+          "granger_score": 0.833709978571429,
+          "betas": [
+            0.7612631500000002,
+            -0.07244682857142876
+          ],
+          "count": 5
+        },
+        {
+          "kind": "meta.lambda_consistency",
+          "metric": "rule_fidelity",
+          "did_mean": 0.0025507870370371057,
+          "granger_score": 1.0764392857142862,
+          "betas": [
+            0.9730500000000002,
+            -0.10338928571428593
+          ],
+          "count": 5
+        },
+        {
+          "kind": "meta.lambda_consistency",
+          "metric": "combined_fitness",
+          "did_mean": 0.030457737050264555,
+          "granger_score": 0.9550746000000004,
+          "betas": [
+            0.8671565500000002,
+            -0.08791805000000016
+          ],
+          "count": 5
+        },
+        {
+          "kind": "meta.learning_rate",
+          "metric": "nn_accuracy",
+          "did_mean": 0.06528471817129627,
+          "granger_score": 0.833709978571429,
+          "betas": [
+            0.7612631500000002,
+            -0.07244682857142876
+          ],
+          "count": 4
+        },
+        {
+          "kind": "meta.learning_rate",
+          "metric": "rule_fidelity",
+          "did_mean": 0.004694733796296341,
+          "granger_score": 1.0764392857142862,
+          "betas": [
+            0.9730500000000002,
+            -0.10338928571428593
+          ],
+          "count": 4
+        },
+        {
+          "kind": "meta.learning_rate",
+          "metric": "combined_fitness",
+          "did_mean": 0.03498974809854501,
+          "granger_score": 0.9550746000000004,
+          "betas": [
+            0.8671565500000002,
+            -0.08791805000000016
+          ],
+          "count": 4
+        },
+        {
+          "kind": "meta.rule_mutation_rate",
+          "metric": "nn_accuracy",
+          "did_mean": 0.06528471817129627,
+          "granger_score": 0.833709978571429,
+          "betas": [
+            0.7612631500000002,
+            -0.07244682857142876
+          ],
+          "count": 4
+        },
+        {
+          "kind": "meta.rule_mutation_rate",
+          "metric": "rule_fidelity",
+          "did_mean": 0.004694733796296341,
+          "granger_score": 1.0764392857142862,
+          "betas": [
+            0.9730500000000002,
+            -0.10338928571428593
+          ],
+          "count": 4
+        },
+        {
+          "kind": "meta.rule_mutation_rate",
+          "metric": "combined_fitness",
+          "did_mean": 0.03498974809854501,
+          "granger_score": 0.9550746000000004,
+          "betas": [
+            0.8671565500000002,
+            -0.08791805000000016
+          ],
+          "count": 4
+        },
+        {
+          "kind": "noise.feature",
+          "metric": "nn_accuracy",
+          "did_mean": -0.013528257407407596,
+          "granger_score": 1.4112149760869568,
+          "betas": [
+            0.76126315,
+            0.6499518260869567
+          ],
+          "count": 1
+        },
+        {
+          "kind": "noise.feature",
+          "metric": "rule_fidelity",
+          "did_mean": 0.009642592592592591,
+          "granger_score": 1.8213326086956523,
+          "betas": [
+            0.97305,
+            0.8482826086956523
+          ],
+          "count": 1
+        },
+        {
+          "kind": "noise.feature",
+          "metric": "combined_fitness",
+          "did_mean": -0.0019429314814813914,
+          "granger_score": 1.616273897826087,
+          "betas": [
+            0.86715655,
+            0.7491173478260871
+          ],
+          "count": 1
+        },
+        {
+          "kind": "noise.label",
+          "metric": "nn_accuracy",
+          "did_mean": -0.013528257407407596,
+          "granger_score": 1.4112149760869568,
+          "betas": [
+            0.76126315,
+            0.6499518260869567
+          ],
+          "count": 1
+        },
+        {
+          "kind": "noise.label",
+          "metric": "rule_fidelity",
+          "did_mean": 0.009642592592592591,
+          "granger_score": 1.8213326086956523,
+          "betas": [
+            0.97305,
+            0.8482826086956523
+          ],
+          "count": 1
+        },
+        {
+          "kind": "noise.label",
+          "metric": "combined_fitness",
+          "did_mean": -0.0019429314814813914,
+          "granger_score": 1.616273897826087,
+          "betas": [
+            0.86715655,
+            0.7491173478260871
+          ],
+          "count": 1
+        },
+        {
+          "kind": "noise.target",
+          "metric": "nn_accuracy",
+          "did_mean": -0.013528257407407596,
+          "granger_score": 1.4112149760869568,
+          "betas": [
+            0.76126315,
+            0.6499518260869567
+          ],
+          "count": 1
+        },
+        {
+          "kind": "noise.target",
+          "metric": "rule_fidelity",
+          "did_mean": 0.009642592592592591,
+          "granger_score": 1.8213326086956523,
+          "betas": [
+            0.97305,
+            0.8482826086956523
+          ],
+          "count": 1
+        },
+        {
+          "kind": "noise.target",
+          "metric": "combined_fitness",
+          "did_mean": -0.0019429314814813914,
+          "granger_score": 1.616273897826087,
+          "betas": [
+            0.86715655,
+            0.7491173478260871
+          ],
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

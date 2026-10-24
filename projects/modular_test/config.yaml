@@ -1,0 +1,3 @@
+description: Testing modular project creation
+model: codellama:13b
+context: This project (modular_test) performs evolutionary or optimization experiments.

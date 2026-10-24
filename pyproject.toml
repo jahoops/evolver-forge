@@ -1,0 +1,33 @@
+[project]
+name = "evolver-forge"
+version = "0.1.0"
+description = "The Forge – Modular AI experiment manager and evolutionary optimizer"
+requires-python = ">=3.10"
+
+# We're using script mode — not an installable package
+package-mode = false
+
+# Main dependencies
+dependencies = [
+    "rich>=13.7.0",
+    "ollama>=0.1.9",
+    "pandas>=2.2.0",
+    "matplotlib>=3.8.0",
+    "pyyaml>=6.0",
+    "torch>=2.2.0",
+    "scikit-learn (>=1.7.2,<2.0.0)",
+    "numpy (>=1.26,<3.0)",
+]
+
+[build-system]
+requires = ["poetry-core>=1.8.0"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.poetry]
+# Optional project metadata (used by Poetry CLI)
+authors = ["J H <contact@example.com>"]
+readme = "README.md"
+
+[tool.poetry.scripts]
+# Example entry point if we later turn this into a CLI package
+forge = "forge.forge:main"

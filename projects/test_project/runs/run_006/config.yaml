@@ -1,0 +1,5 @@
+generations: 20
+description: "Toy optimization example."
+model: codellama:13b
+context: "This project evolves a simple numerical optimizer to learn how to reach a target value (approx π)."
+

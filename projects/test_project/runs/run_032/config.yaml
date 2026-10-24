@@ -1,0 +1,7 @@
+context: "This project evolves a simple numerical optimizer to reach \u03C0."
+description: Toy optimization example.
+generations: 20
+model: codellama:13b
+params:
+  step_size: 0.46015
+param_step_size: 0.52238

@@ -1,0 +1,24 @@
+{
+  "task": "sine",
+  "updated_at": "2025-11-09T09:54:42",
+  "genome": {
+    "nn": {
+      "hidden_layers": 3,
+      "hidden_width": 16,
+      "activation": "relu",
+      "normalization": "batch",
+      "dropout": 0.08554253933356656
+    },
+    "rules": {
+      "max_depth": 3,
+      "min_samples_leaf": 3,
+      "prune_ccp_alpha": 0.0002798226702833348
+    },
+    "explore": {
+      "uncertainty_k": 64,
+      "mutation_rate": 0.09321028398340273,
+      "lambda_consistency": 0.15562999877958028
+    }
+  },
+  "composite_score": 0.897978
+}

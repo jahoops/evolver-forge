@@ -1,0 +1,19 @@
+{
+    "folders": [
+        {
+            "path": "."
+        }
+    ],
+    "settings": {
+        "python.pythonPath": ".venv\\Scripts\\python.exe",
+        "python.defaultInterpreterPath": ".venv\\Scripts\\python.exe",
+        "python.terminal.activateEnvironment": true,
+        "terminal.integrated.defaultProfile.windows": "Command Prompt",
+        "terminal.integrated.profiles.windows": {
+            "Command Prompt": {
+                "path": "C:\\Windows\\System32\\cmd.exe",
+                "args": ["/k", ".venv\\Scripts\\activate.bat"]
+            }
+        }
+    }
+}

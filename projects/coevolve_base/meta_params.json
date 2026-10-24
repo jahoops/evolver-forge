@@ -1,0 +1,6 @@
+{
+  "learning_rate": 0.01,
+  "mutation_rate": 0.1,
+  "lambda_consistency": 0.1882384,
+  "last_reward": -0.06046199798584735
+}

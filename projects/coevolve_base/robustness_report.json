@@ -1,0 +1,22 @@
+{
+  "reports": [
+    {
+      "timestamp": "2025-11-10T00:21:17",
+      "task": "xor",
+      "generation": 4,
+      "label_noise": 0.0,
+      "feature_noise": 0.0,
+      "target_noise": 0.0,
+      "label_smoothing": 0.0,
+      "eval_with_dropout": false,
+      "ablations": [],
+      "acc_std_under_noise": 0.0,
+      "fid_std_under_noise": 0.0,
+      "drop_at_noise_5pct": 0.0,
+      "delta_with_no_rule": 0.0,
+      "delta_with_no_nn": 0.0,
+      "delta_with_no_explore": 0.0,
+      "stability_score": 1.0
+    }
+  ]
+}

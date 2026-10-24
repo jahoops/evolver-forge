@@ -1,0 +1,24 @@
+{
+  "task": "xor",
+  "updated_at": "2025-11-10T00:21:20",
+  "genome": {
+    "nn": {
+      "hidden_layers": 4,
+      "hidden_width": 16,
+      "activation": "sigmoid",
+      "normalization": "none",
+      "dropout": 0.051021329655626974
+    },
+    "rules": {
+      "max_depth": 3,
+      "min_samples_leaf": 3,
+      "prune_ccp_alpha": 0.0
+    },
+    "explore": {
+      "uncertainty_k": 72,
+      "mutation_rate": 0.0984584124400164,
+      "lambda_consistency": 0.1935009718740009
+    }
+  },
+  "composite_score": 0.59135
+}

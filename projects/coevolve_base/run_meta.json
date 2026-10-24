@@ -1,0 +1,71 @@
+{
+  "seed": 2752077,
+  "resume": false,
+  "start_generation": 1,
+  "timestamp": "2025-11-10T00:21:20",
+  "task": "xor",
+  "transfer_to": null,
+  "meta_enabled": false,
+  "dialogue_every": null,
+  "auto_experiment": false,
+  "override_learning_rate": null,
+  "override_mutation_rate": null,
+  "override_lambda_consistency": null,
+  "arch_auto": true,
+  "arch_population": 2,
+  "arch_interval": 2,
+  "arch_locks": [],
+  "last_generation": 4,
+  "last_checkpoint": "checkpoint_gen_004.pt",
+  "meta_learning_rate": 0.001929,
+  "meta_mutation_rate": 0.0984584124400164,
+  "meta_lambda_consistency": 0.1935009718740009,
+  "meta_reward": null,
+  "architecture": {
+    "nn": {
+      "hidden_layers": 4,
+      "hidden_width": 16,
+      "activation": "sigmoid",
+      "normalization": "none",
+      "dropout": 0.051021329655626974
+    },
+    "rules": {
+      "max_depth": 3,
+      "min_samples_leaf": 3,
+      "prune_ccp_alpha": 0.0
+    },
+    "explore": {
+      "uncertainty_k": 72,
+      "mutation_rate": 0.0984584124400164,
+      "lambda_consistency": 0.1935009718740009
+    }
+  },
+  "architecture_score": 0.5913498533302414,
+  "transfer_candidates": [
+    "shape",
+    "sine",
+    "pid"
+  ],
+  "transfer_best_to": "sine",
+  "transfer_boot_metric": 0.599609375,
+  "transfer_boot_metric_label": "accuracy",
+  "transfer_boot_fidelity": 1.0,
+  "transfer_gain": 0.020842254161834717,
+  "next_task": "sine",
+  "label_noise": 0.0,
+  "feature_noise": 0.0,
+  "target_noise": 0.0,
+  "label_smoothing": 0.0,
+  "eval_with_dropout": false,
+  "ablations": [],
+  "robustness_summary": {
+    "acc_std_under_noise": 0.0,
+    "fid_std_under_noise": 0.0,
+    "drop_at_noise_5pct": 0.0,
+    "delta_with_no_rule": 0.0,
+    "delta_with_no_nn": 0.0,
+    "delta_with_no_explore": 0.0,
+    "stability_score": 1.0
+  },
+  "robustness_timestamp": "2025-11-10T00:21:17"
+}

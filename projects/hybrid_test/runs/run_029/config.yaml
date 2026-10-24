@@ -1,0 +1,18 @@
+# Default config for hybrid agent experiment
+project: hybrid_agent_demo
+context: "Hybrid agent combining fast symbolic rules with a small NN evaluator."
+model: "codellama:13b"
+
+evolution:
+  population: 8
+  generations: 5
+  mutation_rate: 0.2
+
+environment:
+  size: 10          # 10x10 grid
+  goal: [9, 9]
+  obstacles: 4
+
+agent:
+  energy_budget: 100
+  nn_weight: 0.5
